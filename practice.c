@@ -25,3 +25,6 @@ int main()
     printf("GCD of %d and %d is %d ", a, b, gcd(a, b));
     return 0;
 }
+
+
+// this is just for main overview and making the entire journey to write and make the entire process and make the whole process and do the entire thing.==> This line is newly added.
